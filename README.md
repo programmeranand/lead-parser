@@ -10,10 +10,10 @@ HTML File Parser for Parsing Contact details of leads data obtained inside the H
         1.1 Change directory to the env `cd <VIRTUAL_ENV_NAME>`
     2. Clone the Repository inside Virtual environment :-  `git clone git@github.com:programmeranand/lead-parser.git`
         2.1 Activate virtual environment `source /bin/activate`
-        2.1 Change Directory to cloned repo `cd lead-parser`
+        2.2 Change Directory to cloned repo `cd lead-parser`
          
-    2. Install Requirements file  :- `pip install -r requirements.txt`
-    3. Run Leads Parser :- `python3 main.py`
+    3. Install Requirements file  :- `pip install -r requirements.txt`
+    4. Run Leads Parser :- `python3 main.py`
         - Input is available at `leads_data/lead.html`
         - Output is stored at `leads_data/output.json`
         
