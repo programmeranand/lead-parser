@@ -3,8 +3,8 @@ HTML File Parser for Parsing Contact details of leads data obtained inside the H
 
 ## Prerequisites
     Python 3.6+
-        1. For MAC OS X installation Check :- https://docs.python-guide.org/starting/install3/osx/
-        2. For Linux Distributions Check :- https://docs.python-guide.org/starting/install3/linux/
+        1. For MAC OS X installation Check :- [Mac OS X Install](https://docs.python-guide.org/starting/install3/osx/)
+        2. For Linux Distributions Check :- [Linux Install](https://docs.python-guide.org/starting/install3/linux/)
     UNIX operating System
     
 ### How To Run Parser?
